@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="one2p.png" alt="" />
+        </div>
+        <img src="png-transparent-physics-logo-biomedical-engineering-computer-science-materials-science-science-blue-laboratory-logo-thumbnail-removebg-preview.png"
+            alt="" width="250" height="250" />
+        <ul>
+            <a href="#ava">Avances Tecnológicos</a>
+            <a href="#pla">Plantillas</a>
+            <a href="#nan">Nanotecnología</a>
+            <a href="#inb">Inbolt</a>
+            <a href="#ext">EXTRAS</a>
+            
+            </nav>
+    </header>
+    <section class="caja">
+        <article>
+        <a id="ava"></a>
+        <h1>Avances Tecnológicos en Robótica y Salud</h1>
+        <article>
+        <h2>Robots que Suben Escaleras</h2>
+        <p>Los robots que pueden subir escaleras han sido un hito en la robótica, especialmente en el ámbito
+            de la asistencia y rescate. Estos robots utilizan un diseño biomimético, inspirado en los
+            movimientos de ciertos animales y humanos. Gracias a sensores avanzados y algoritmos de control,
+            pueden adaptarse a diferentes tipos de escaleras y obstáculos. Esto es fundamental en
+            situaciones de emergencia, donde el acceso a personas atrapadas puede ser crucial. Además, su
+            uso en el hogar podría facilitar la vida a personas con movilidad reducida, permitiendo un
+            entorno más accesible.</p>
+        </article>
+        <img src="img\robot.jpg" alt="" width="400" height="200">
+        <article>
+        <li id="pla"></li>
+        <h2>Plantillas Especializadas para Prótesis de Piernas</h2>
+        <p>Las prótesis modernas han evolucionado más allá de los modelos tradicionales, incorporando
+            tecnología de punta como las plantillas personalizadas. Estas plantillas están diseñadas
+            utilizando técnicas de escaneo 3D y fabricación aditiva, lo que permite una adaptación precisa a
+            la anatomía del usuario. Además, están fabricadas con materiales ligeros y duraderos que ofrecen
+            soporte y comodidad. Las investigaciones continúan para integrar sensores que puedan
+            proporcionar retroalimentación en tiempo real sobre la presión y el equilibrio, mejorando así la
+            experiencia de los usuarios y su capacidad para realizar actividades cotidianas con mayor
+            facilidad.</p>
+        </article>
+        <img src="img\protesis.jpeg" alt="" width="400" height="200">
+        <article>        
+        <li id="nan"></li>
+        <h2>Nanotecnología en la Salud</h2>
+        <p>La nanotecnología está revolucionando el diagnóstico y tratamiento de enfermedades. A nivel
+            celular, se están desarrollando nanopartículas que pueden llevar medicamentos específicos a
+            células cancerosas, minimizando el daño a las células sanas. Esto no solo mejora la eficacia del
+            tratamiento, sino que también reduce los efectos secundarios que muchas veces son debilitantes.
+            Además, la nanotecnología se aplica en la creación de dispositivos médicos más pequeños y
+            precisos, como sensores que pueden monitorear condiciones de salud en tiempo real, lo que
+            permite una atención médica más proactiva y personalizada.</p>
+    </article>
+    <img src="img\nanot.jpeg" alt="" width="400" height="200">  
+    <article>
+    <a id="inb"></a>
+    <h2>Inbolt y Visión 3D</h2>
+    <p>Inbolt es una solución tecnológica que ha transformado la automatización industrial mediante la
+        integración de visión 3D. Esta tecnología permite a los robots reconocer y clasificar objetos en
+        entornos complejos, lo que mejora la eficiencia y precisión en la producción. Con el uso de
+        cámaras y software de procesamiento de imágenes, los robots pueden adaptarse a cambios en la
+        línea de producción, aumentando así la flexibilidad y reduciendo los tiempos de inactividad.
+        Esto tiene un impacto significativo en la logística, permitiendo a las empresas optimizar sus
+        operaciones y reducir costos.</p>
+    </article>
+    <img src="img\3dinbolt.jpeg" alt="" width="400" height="200">
+    <article>
+    <li id="ext"></li>
+    <h2>Robots y Drones que Entregan Pedidos</h2>
+    <p>La entrega de pedidos mediante robots y drones está emergiendo como una solución innovadora en el
+        comercio electrónico. Equipados con tecnologías de navegación avanzada, estos dispositivos
+        pueden operar de forma autónoma, eligiendo las rutas más eficientes y evitando obstáculos. La
+        implementación de estos sistemas no solo promete reducir los costos de entrega, sino también
+        disminuir la huella de carbono asociada al transporte. A medida que las regulaciones se adaptan,
+        se prevé que estas tecnologías se conviertan en una parte esencial de la infraestructura urbana,
+        facilitando un acceso más rápido y eficiente a productos y servicios.</p>
+        <img src="img\delibery.webp" alt="" width="400" height="200"> 
+
+    <h2>Células Madre y Diabetes Tipo 1</h2>
+    <p>La investigación en células madre ofrece nuevas esperanzas para el tratamiento de la diabetes
+        tipo 1, una enfermedad crónica que afecta a millones de personas en todo el mundo. Los
+        científicos están explorando cómo las células madre pueden ser utilizadas para regenerar las
+        células beta del páncreas, responsables de la producción de insulina. Este enfoque no solo
+        podría proporcionar un tratamiento más efectivo, sino que también podría llevar a una cura
+        definitiva, eliminando la necesidad de administración diaria de insulina. Aunque aún está en
+        fases de investigación, los resultados iniciales son prometedores y podrían cambiar radicalmente
+        la vida de quienes padecen esta enfermedad.</p>
+    </article>
+    <img src="img\diabetes.jpeg" alt="" width="400" height="200"> 
+
+                <footer>
+                    <p>&copy; 2024 Avances Tecnológicos. Todos los derechos reservados.</p>
+                </footer>
+            </body>
+
+            </html>
+
+        </article>
+        <article>
+            </p>
+            <iframe width="453" height="280" src="https://youtu.be/v73VkunNMuQ?si=G_UXkbl1cBDzimke"
+                title="Acaban de probar nanorobots en humanos | Cura funcional para la diabetes tipo 1" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen class="center"></iframe>
+        </article>
+    </section>
+    <footer class="pie">
+        <p>DERECHOS RESERVADOS</p>
+    </footer>
+</body>
+
+</html>
+
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #58acf4;
+    color: #f2eeed;
+    background-image: url('img/nano.jpg');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen */
+    margin: 0; /* Elimina el margen por defecto */
+    color: white;
+}
+
+header {
+    display: inline-block;
+    width: 0px;
+    height: 40vh;
+    margin-top: 10px;
+    align-items: center;
+    font-family: Monaco;
+    padding-top: 5px;
+}
+
+header h1 {
+    text-align: center;
+    color: #960018;
+    font-size: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #f8de3c;
+    padding-left: 300px;
+    padding-right: 300px;
+    display: inline-block;
+}
+
+header ul {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline-block;
+    margin-top: -150px;
+    padding-top: 0px;
+}
+
+a {
+    float: left;
+}
+
+ul a {
+    display: inline-block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+ul {
+    position: absolute;
+    right: 50px;
+    display: inline-block;
+}
+
+ul a {
+    color: #c8472c;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 15px;
+    transition: color 1s;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: azure;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: inline-block;
+    /*text-transform: uppercase;*/
+}
+
+ul a:hover {
+    color: #58acf4;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.logo {
+    margin: 25px;
+    width: 20%;
+    height: 155px;
+    float: left;
+    padding-left: 5px;
+}
+
+.caja {
+    background-color: #0b3075;
+    padding: 20px;
+    margin: 10px;
+}
+
+h2 {
+    font-size: 35px;
+    color: #ca2c43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pie {
+    background-color: rgb(74, 74, 139);
+    margin: 10px;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img {
+    justify-content: center;
+    align-items: center;
+}
